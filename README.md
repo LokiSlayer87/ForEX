@@ -1,110 +1,50 @@
-📘 ForEx Rate Predictor – Plan Your Tuition
+# 📘 ForEx Rate Predictor  
+*A smart forex forecasting tool for international students*
 
-A predictive financial assistant for international students
+---
 
-📌 Overview
+## 🔎 Overview  
+ForEx is a predictive financial tool that helps international students plan tuition payments by identifying the best time to convert currency.  
+Powered by **ARIMA forecasting**, clean UI design, and multilingual finance features, the app reduces uncertainty and helps students save money.
 
-ForEx is a digital finance tool designed to help international students and their families manage tuition payments efficiently by predicting optimal currency conversion timings. Using ARIMA time-series forecasting, a structured tuition scheduler, and multilingual financial tools, the app empowers users to navigate the challenges of fluctuating exchange rates when studying abroad.
+---
 
-The goal: simplify cross-border financial planning for students moving to France.
-🚨 Problem Statement
+## 🚀 Key Features  
+- 📈 **Forex Rate Predictor:** ARIMA-based short-term forecasting  
+- 🔔 **Tuition Scheduler:** Add deadlines & receive reminders  
+- 🏦 **Bank Comparison Tool:** Compare transfer fees  
+- 🌐 **Multilingual Glossary:** English, French, Chinese  
+- 🎨 **Figma + Lovable AI prototype** with student-focused UX  
 
-International students often struggle with:
+---
 
-Unpredictable foreign exchange (forex) rate fluctuations
+## 🛠️ Tech Stack  
+- **Python**, ARIMA (Statsmodels), Pandas, NumPy  
+- **Supabase** (Database + Auth)  
+- **Figma**, **Lovable AI** (Prototype)  
+- Forex API integrations  
 
-Overpaying due to poor timing in currency conversion
+---
 
-Lack of localized financial tools for payments in France
+## 📊 Impact & Results  
+Tested with 41+ users across two iterations:
+- ⭐ **4.46 / 5 overall satisfaction**  
+- 🎨 **97% liked the UI design**  
+- 🧭 **92% found navigation easy**  
+- 📈 Improved clarity and accuracy after iteration feedback  
 
-Confusing banking processes and hidden fees
+---
 
-Result: Stress, poor planning, and financial loss.
+## 🌱 Future Enhancements  
+- Native iOS/Android mobile apps  
+- Add more currencies (JPY, KRW, BRL)  
+- Smart rate-alert notifications  
+- Banking & university partnerships  
 
-💡 Solution
+---
 
-ForEx provides:
+## 🔗 Links  
+👉 **Prototype:** https://for-ex.lovable.app/welcome  
+👉 **Figma:** *https://www.figma.com/design/RE0TPf8J7oVncOlznFk9t7/Maker-s-Project-ForEx?node-id=0-1&t=Ok0tc43djVKsv2xp-1*  
 
-📈 Forex Rate Predictor: ARIMA-based forecasts for USD→EUR, EUR→INR, EUR→CNY, etc.
-
-🔔 Tuition Scheduler: Automated payment reminders & alerts
-
-🏦 Bank Comparison: Compare transfer fees and services
-
-📚 Multilingual Glossary & Blog: Finance terms in English, French, and Chinese
-
-🎨 User-centered UI/UX: Clean Figma design integrated into a Lovable AI prototype
-
-🌍 Target Users
-
-International students studying in France
-
-Families sending remittances abroad
-
-Prospective students planning their financial timelines
-
-Freelancers earning in foreign currencies
-
-🛠️ Tech Stack
-Backend
-
-Python
-
-ARIMA (Statsmodels)
-
-Pandas, NumPy
-
-APIs for historical forex data
-
-Supabase (Database + Auth)
-
-Frontend / Prototype
-
-Figma (High-fidelity UI)
-
-Lovable AI (Interactive prototype)
-
-Supabase API Integration
-
-HTML/CSS (prototype logic)
-
-📊 Features
-🔮 1. Forex Rate Prediction
-
-Short-term forecasting using ARIMA
-
-Daily/weekly/monthly rate views
-
-Visual trend charts
-
-Dynamic currency pair selection
-
-🧮 2. Tuition Payment Scheduler
-
-Add your tuition deadlines
-
-Get reminders for conversion
-
-Smart scheduling based on forecast windows
-
-🏦 3. Bank Comparison Tool
-
-Compare banking fees & services
-
-Simplifies transfer decisions
-
-🌐 4. Multilingual Glossary
-
-Financial terms translated into
-
-English
-
-French
-
-Chinese
-
-📰 5. Blog for Financial Literacy
-
-Student-friendly explanations
-
-Local French banking context
+---
